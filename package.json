@@ -1,0 +1,24 @@
+{
+    "name": "@types/create-react-class",
+    "version": "15.6.2",
+    "description": "TypeScript definitions for create-react-class",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "John Gozde",
+            "url": "https://github.com/jgoz",
+            "githubUsername": "jgoz"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "typesPublisherContentHash": "95023b209394370e6135a2e7e988d9ce543ee9e648f701f140276bfcafc513b6",
+    "typeScriptVersion": "2.8"
+}
