@@ -1,6 +1,6 @@
 {
-    "name": "@types/create-react-class",
-    "version": "15.6.2",
+    "name": "@calebmer-airtable/types-create-react-class",
+    "version": "15.6.2-patch.1",
     "description": "TypeScript definitions for create-react-class",
     "license": "MIT",
     "contributors": [
