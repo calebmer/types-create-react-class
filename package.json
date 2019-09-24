@@ -16,7 +16,7 @@
         "url": "https://github.com/calebmer/types-create-react-class.git"
     },
     "scripts": {},
-    "dependencies": {
+    "peerDependencies": {
         "@types/react": "*"
     },
     "typesPublisherContentHash": "95023b209394370e6135a2e7e988d9ce543ee9e648f701f140276bfcafc513b6",
