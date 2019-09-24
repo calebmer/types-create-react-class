@@ -1,4 +1,7 @@
 # Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/calebmer/types-create-react-class.svg)](https://greenkeeper.io/)
+
 > `npm install --save @types/create-react-class`
 
 # Summary
